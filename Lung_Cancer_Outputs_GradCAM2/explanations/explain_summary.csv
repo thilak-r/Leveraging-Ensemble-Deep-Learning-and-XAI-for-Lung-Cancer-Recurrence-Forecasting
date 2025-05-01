@@ -1,0 +1,6 @@
+Model,True,Pred,Conf
+ResNet18,recurrence,recurrence,0.9999957084655762
+EfficientNet,recurrence,recurrence,0.999998927116394
+DenseNet121,recurrence,recurrence,0.9999454021453857
+Xception,recurrence,recurrence,0.9999637603759766
+MobileNetV2,recurrence,recurrence,0.9999994039535522
