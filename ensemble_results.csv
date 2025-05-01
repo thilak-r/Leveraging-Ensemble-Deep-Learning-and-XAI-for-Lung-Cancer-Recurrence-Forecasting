@@ -1,0 +1,4 @@
+Method,Accuracy,ROC AUC,Precision (Class 1),Recall (Class 1),F1-Score (Class 1)
+Averaging,1.0,1.0,1.0,1.0,1.0
+Weighted Avg,1.0,1.0,1.0,1.0,1.0
+Majority Vote,1.0,,1.0,1.0,1.0

@@ -1,0 +1,6 @@
+Model,True Class,Predicted Class,Confidence
+ResNet18,recurrence,recurrence,0.9999966621398926
+EfficientNet,recurrence,recurrence,0.9999608993530273
+DenseNet121,recurrence,recurrence,0.9999780654907227
+Xception,recurrence,recurrence,0.9989963173866272
+MobileNetV2,recurrence,recurrence,0.9999997615814209
