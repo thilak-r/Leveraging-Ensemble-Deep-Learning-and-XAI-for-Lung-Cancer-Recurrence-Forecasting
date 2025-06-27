@@ -1,6 +1,12 @@
 # 📊 Leveraging-Ensemble-Deep-Learning-and-XAI-for-Lung-Cancer-Recurrence-Forecasting
 ## Model Evaluation Visualizations
 
+This is the official dataset
+https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/
+
+Preprocessed dataset uploaded to kaggle:
+https://www.kaggle.com/datasets/thilak02/recurring-dataset-renewed
+
 **Overall Screenshot**  
 ![Screenshot](https://raw.githubusercontent.com/ThilakAmalkar/recurring-LC/main/Screenshot%202025-05-01%20161005.png)
 
